@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code-workspace\\C#\\LogPortfolioVisit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF8132-30D5-4169-B7B5-EE3AB553267D}|LogPortfolioVisit\\LogPortfolioVisit.csproj|d:\\code-workspace\\c#\\logportfoliovisit\\logportfoliovisit\\logsitevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CF8132-30D5-4169-B7B5-EE3AB553267D}|LogPortfolioVisit\\LogPortfolioVisit.csproj|solutionrelative:logportfoliovisit\\logsitevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF8132-30D5-4169-B7B5-EE3AB553267D}|LogPortfolioVisit\\LogPortfolioVisit.csproj|d:\\code-workspace\\c#\\logportfoliovisit\\logportfoliovisit\\models\\locationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CF8132-30D5-4169-B7B5-EE3AB553267D}|LogPortfolioVisit\\LogPortfolioVisit.csproj|solutionrelative:logportfoliovisit\\models\\locationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CF8132-30D5-4169-B7B5-EE3AB553267D}|LogPortfolioVisit\\LogPortfolioVisit.csproj|d:\\code-workspace\\c#\\logportfoliovisit\\logportfoliovisit\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0CF8132-30D5-4169-B7B5-EE3AB553267D}|LogPortfolioVisit\\LogPortfolioVisit.csproj|solutionrelative:logportfoliovisit\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\code-workspace\\C#\\LogPortfolioVisit\\LogPortfolioVisit\\local.settings.json",
+              "RelativeDocumentMoniker": "LogPortfolioVisit\\local.settings.json",
+              "ToolTip": "D:\\code-workspace\\C#\\LogPortfolioVisit\\LogPortfolioVisit\\local.settings.json",
+              "RelativeToolTip": "LogPortfolioVisit\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T15:22:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationData.cs",
+              "DocumentMoniker": "D:\\code-workspace\\C#\\LogPortfolioVisit\\LogPortfolioVisit\\Models\\LocationData.cs",
+              "RelativeDocumentMoniker": "LogPortfolioVisit\\Models\\LocationData.cs",
+              "ToolTip": "D:\\code-workspace\\C#\\LogPortfolioVisit\\LogPortfolioVisit\\Models\\LocationData.cs",
+              "RelativeToolTip": "LogPortfolioVisit\\Models\\LocationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:20:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogSiteVisit.cs",
+              "DocumentMoniker": "D:\\code-workspace\\C#\\LogPortfolioVisit\\LogPortfolioVisit\\LogSiteVisit.cs",
+              "RelativeDocumentMoniker": "LogPortfolioVisit\\LogSiteVisit.cs",
+              "ToolTip": "D:\\code-workspace\\C#\\LogPortfolioVisit\\LogPortfolioVisit\\LogSiteVisit.cs",
+              "RelativeToolTip": "LogPortfolioVisit\\LogSiteVisit.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:32:32.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
